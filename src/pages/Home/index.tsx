@@ -7,6 +7,8 @@ import page3 from "src/assets/comic-book/3.png";
 import page4 from "src/assets/comic-book/4.png";
 import page5 from "src/assets/comic-book/5.png";
 import page6 from "src/assets/comic-book/6.png";
+import page8 from "src/assets/comic-book/8.png";
+
 import { Container } from "./styles";
 
 interface Props {}
@@ -17,7 +19,7 @@ function Home({}: Props) {
       <Header />
       <ComicViewer
         defaultIsSingleView
-        pages={[page1, page2, page3, page4, page5, page6]}
+        pages={[page1, page2, page3, page4, page5, page6, page8]}
         switchingRatio={0.75}
         direction="ltr"
         text={{
