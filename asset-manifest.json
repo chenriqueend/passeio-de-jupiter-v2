@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/passeio-de-jupiter-v2/static/js/main.10acfb53.js",
+    "static/media/4.png": "/passeio-de-jupiter-v2/static/media/4.45d3959d043410f4642c.png",
+    "static/media/6.png": "/passeio-de-jupiter-v2/static/media/6.76951ba0fcc5a1e3f021.png",
+    "static/media/8.png": "/passeio-de-jupiter-v2/static/media/8.8a54e7ae67ea76ea0090.png",
+    "static/media/2.png": "/passeio-de-jupiter-v2/static/media/2.15b01043ccf5c0a8f328.png",
+    "static/media/5.png": "/passeio-de-jupiter-v2/static/media/5.3f92814c92d941c63beb.png",
+    "static/media/1.png": "/passeio-de-jupiter-v2/static/media/1.13651baad8cffdbfcc91.png",
+    "static/media/3.png": "/passeio-de-jupiter-v2/static/media/3.18155a1d3be265371be3.png",
+    "static/media/logo.png": "/passeio-de-jupiter-v2/static/media/logo.aebb031d78c7713a9a7a.png",
+    "index.html": "/passeio-de-jupiter-v2/index.html",
+    "main.10acfb53.js.map": "/passeio-de-jupiter-v2/static/js/main.10acfb53.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.10acfb53.js"
+  ]
+}
