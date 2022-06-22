@@ -7,7 +7,7 @@ export const Container = styled.header<ContainerProps>`
     display: flex;
     padding-bottom: 55px;
     border-radius: 25px;
-    border: 2px solid #73ad21;
+    border: 2px solid #71d5be;
   }
   img {
     width: 220px;
@@ -16,6 +16,16 @@ export const Container = styled.header<ContainerProps>`
       width: 180px;
       height: 180px;
       margin-top: 105px;
+    }
+  }
+  .insta {
+    margin-top: 162px;
+    margin-left: -327px;
+    width: 38px;
+    height: auto;
+    @media only screen and (max-width: 600px) {
+      margin-top: 304px;
+      margin-left: -131px;
     }
   }
   p {
